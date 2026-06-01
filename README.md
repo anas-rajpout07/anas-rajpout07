@@ -8,7 +8,7 @@
     />
   </a>
 </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anas-rajpout07&label=Profile%20views&color=0e75b6&style=flat" />
