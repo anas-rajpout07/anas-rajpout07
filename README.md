@@ -57,9 +57,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-rajpout07&show_icons=true&theme=dark" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-tau-ruddy-33.vercel.app/api?username=anas-rajpout07&show_icons=true&theme=dark" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-rajpout07&layout=compact&theme=dark" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-tau-ruddy-33.vercel.app/api/top-langs/?username=anas-rajpout07&layout=compact&theme=dark" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
