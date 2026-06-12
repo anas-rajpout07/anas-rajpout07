@@ -54,14 +54,16 @@
 </p>
 
 <!-- ===================== GITHUB STATS ===================== -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-rajpout07&layout=compact" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-rajpout07&show_icons=true" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-rajpout07" />
-</p>
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anas-rajpout07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
