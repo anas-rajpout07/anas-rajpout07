@@ -53,6 +53,10 @@
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- ===================== GITHUB STATS ===================== -->
 
 
