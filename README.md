@@ -56,7 +56,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   56 mins               ███████████████████████░░   92.36 %
+YAML     3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Other    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
